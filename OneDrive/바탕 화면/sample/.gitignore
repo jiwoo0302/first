@@ -1,0 +1,15 @@
+# Windows 시스템 폴더 무시
+AppData/
+Application Data/
+Cookies/
+Documents/
+Local Settings/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+시작 메뉴/
+
+.vscode/extensions/
